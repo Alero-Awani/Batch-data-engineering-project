@@ -1,0 +1,8 @@
+.terraform
+.terraform.lock.hcl
+.bash.log
+.git
+setup.sql
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
